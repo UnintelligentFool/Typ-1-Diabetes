@@ -40,24 +40,6 @@ i {
 
 }
 
-p.question {
-
-    font-style: italic;
-    color: #000000;
-    margin-top: 2em;
-    margin-bottom: 2em;
-
-}
-
-p.questionTwo {
-
-    font-style: italic;
-    color: #000000;
-    margin-top: 2em;
-    margin-bottom: 2em;
-
-}
-
 .btn {
 
     background-color: #ff4444;
@@ -91,17 +73,5 @@ p.questionTwo {
 .btn:focus {
 
     background-color: #a00000;
-
-}
-
-section.showSectionOne {
-
-    display: block;
-
-}
-
-section.showSectionTwo {
-
-    display: block;
 
 }
