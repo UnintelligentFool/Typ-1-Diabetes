@@ -1,0 +1,107 @@
+body {
+
+    background-color: #a9a9a9;
+
+}
+
+div.aligningTextBlockOne {
+
+    display: block;
+    font-family: Verdana;
+    font-size: larger;
+    font-size: medium;
+    padding: 5% 10% 5% 10%;
+    background-color: #ffffd9;/* #efefef */
+    color: #202020;
+    margin: 6em 15% 3em 15%;
+    max-width: 60em;
+
+}
+
+div.aligningTextBlockTwo {
+
+    display: block;
+    font-family: Verdana;
+    font-size: larger;
+    font-size: medium;
+    padding: 5% 10% 5% 10%;
+    background-color: #ffffd9;/* #efefef */
+    color: #202020;
+    margin: 5em 15% 10em 15%;
+    max-width: 60em;
+
+}
+
+i {
+
+    font-style: italic;
+    color: #303030;
+    font-weight: bold;
+
+}
+
+p.question {
+
+    font-style: italic;
+    color: #000000;
+    margin-top: 2em;
+    margin-bottom: 2em;
+
+}
+
+p.questionTwo {
+
+    font-style: italic;
+    color: #000000;
+    margin-top: 2em;
+    margin-bottom: 2em;
+
+}
+
+.btn {
+
+    background-color: #ff4444;
+    color: #eeeeee;
+    border-style: none;
+    box-shadow: 0.3em 0.25em #555555;
+    position: relative;
+    height: 6em;
+    width: 20em;
+    /* padding: 3em 10em 3em 10em; */
+    margin: 0em 15% 0em 15%;
+    align-items: center;
+    text-align: center;
+    font-size: larger;
+    border-radius: 20em;
+    
+}
+
+.btn:active {
+
+    background-color: yellow;
+
+}
+
+.btn:hover {
+
+    background-color: red;
+
+}
+
+.btn:focus {
+
+    background-color: #a00000;
+
+}
+
+section.showSectionOne {
+
+    display: block;
+
+}
+
+section.showSectionTwo {
+
+    display: block;
+
+}
